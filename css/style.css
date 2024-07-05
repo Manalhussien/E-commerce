@@ -13,12 +13,6 @@
     --bg-navbar-color:#E3E6F3;
     --card-color:#CCE7D0;
 }
-/* :host{
-    white-space: nowrap;
-    text-align: initial;
-    overflow: hidden;
-    display: inline-block;
-} */
 .container{
     width: 80%;
     margin: auto;
